@@ -7,7 +7,16 @@ const swaggerOptions = {
         info: {
             title: 'API Tasks',
             version: '1.0.0',
-            description: 'Documentación de la API Tasks',
+            description: 'API para gestionar tareas\n\n'+
+            'Janeth Andrea Guillén de la Mora\n\n'+
+            'Cristian Eduardo Plantillas Aguirre\n\n'+
+            'Aldo Reymundo Sahagún González\n\n'+
+            'Karina Yamilet Macedo Calvillo\n\n' +
+            'Links Github\n\n' + 
+            'Firebase\n'+
+            'https://github.com/andreagdlm/EvU1-Firebase.git\n\n' +
+            'MongoDB\n' +
+            'https://github.com/andreagdlm/EvU1-MongoDB'
         },
         components: {
             securitySchemes: {
